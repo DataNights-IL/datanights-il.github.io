@@ -1,16 +1,16 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+- name: Gal Hever
+  title: Founder & Head of project, DataNights
+  testimonial: "I thought bringing the spirit of communal learning to the Israeli Data Science community, and joining it with a strong agenda of women empowerment, in tech and generally, could have a great impact."
+  image: img/team/team_214_214/gal_hever.jpeg
+- name: Achinoam Soroker
+  title: Core Team Member, DataNights
+  testimonial: "It is always a pleasure running a DataNights cohort. I get to see people really learning together, and of course learn a lot myself."
+  image: img/team/team_214_214/achinoam_soroker.jpeg
+- name: Noga Gshur
+  title: Core Team Member, DataNights
+  testimonial: "This is definitely one of the best teams I have had the pleasure to work with, and getting to impact the professional development of so many data scientists is exciting!"
+  image: img/team/team_214_214/noga_gshur.jpeg
+- name: Shay Palachy
+  title: Co-CEO, DataHack
+  testimonial: "DataNights is perhaps the DataHack project I am most proud of. It is a privilege to have such a team work under our NGO."
+  image: img/team/team_214_214/shay_palachy.png

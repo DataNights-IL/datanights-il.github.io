@@ -32,3 +32,11 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+.ion-icon {
+  font-size: 64px;
+}
+
+ion-icon {
+  font-size: 64px;
+}
