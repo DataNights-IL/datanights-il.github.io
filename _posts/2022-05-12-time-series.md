@@ -9,8 +9,9 @@ author: Amnon Wahle
 ![Time Series Fun](/img/posts/ts1.jpeg)
 
 Just kicked-off our 6 weeks Time-Series cohort! 📈
+
 Thank you Maya Bercovitch and Liron Morgenstern for introducing us to the basic concepts of Time-Series data, metrics and applications.
 
-Many thanks to Skai for hosting this course. So much fun to meet in person 👯
+Also, many thanks to Skai for hosting this course. So much fun to meet in person 👯
 
 ![Time Series Joy](/img/posts/ts2.jpeg)
